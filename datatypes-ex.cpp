@@ -6,6 +6,7 @@
 #include <iostream>
 using namespace  std;
 int main () {
+    // creating variables
     int items = 60;
     float costPerItem = 9.99 ;
     double totalCost = items * costPerItem;
